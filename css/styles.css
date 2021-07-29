@@ -1,0 +1,36 @@
+.container {
+    margin-top: 50px;
+}
+.main-box{
+   max-width: 1500px;
+   width: 100%;
+   position: relative;
+}
+.naruto{
+    position: absolute;
+    top: 50px;
+    left: 100px;
+}
+.obito{
+    position: absolute;
+    top:50px;
+    left:450px;
+}
+.jiraya{
+    position: absolute;
+    top: 50px;
+    left: 800px;
+}
+.nagato{
+    position: absolute;
+    top: 50px;
+    left: 1100px;
+}
+.slider{
+    margin-top: 900px;
+}
+.slider-photos{
+    max-width: 1600px;
+    width: 100%;
+    height: 900px;
+}

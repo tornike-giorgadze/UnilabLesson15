@@ -1,6 +1,19 @@
 body{
     background-color: pink;
 }
+/* .nav-item{
+    background-color:gray;
+}
+.font{
+    background-color:gray;
+} */
+.container-fluid{
+    background-color: rgb(235, 171, 219);
+}
+.dropdown-item{
+    color: rgb(44, 19, 134);
+    background-color:burlywood;
+}
 .container {
     margin-top: 50px;
 }
